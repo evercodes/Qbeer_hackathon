@@ -1,10 +1,10 @@
-# Qbeer_hackathon
+# CHALLENGE BEER QUANTUM
 
-Grupo QuantSense 
-Integrantes:
-Everton Gonsaga
-João Pedro Lucena
-Natália Conde
+## Grupo QuantSense 
+Integrantes:<br>
+Everton Gonsaga<br>
+João Pedro Lucena<br>
+Natália Conde<br>
 Victor Sponchiado
 
 # Objetivo: 
